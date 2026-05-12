@@ -1,0 +1,18 @@
+body{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: 05s;
+}
+
+.container{
+    text-align: center;
+}
+
+button{
+      padding: 10px 20px;
+    font-size: 18px;
+    cursor: pointer;
+    
+}
